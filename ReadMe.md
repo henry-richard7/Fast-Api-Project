@@ -19,6 +19,6 @@ Demo Fast-Api Project. This projects uses Mysql as Database Backed.
 
 ## To-DO:
 
-- Added Docker.
+- Add Docker.
 
 Reference: https://fastapi.tiangolo.com/learn/
