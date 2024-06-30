@@ -17,4 +17,8 @@ Demo Fast-Api Project. This projects uses Mysql as Database Backed.
 - In Terminal `fastapi dev main.py`
 - Open browser and go to `http://localhost:8000/docs`
 
+## To-DO:
+
+- Added Docker.
+
 Reference: https://fastapi.tiangolo.com/learn/
