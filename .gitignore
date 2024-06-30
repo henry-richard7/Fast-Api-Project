@@ -3,3 +3,4 @@ downloads/*.mp3
 modules/__pycache__
 routers/__pycache__
 *.ipynb
+.env
