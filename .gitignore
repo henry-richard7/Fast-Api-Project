@@ -1,0 +1,5 @@
+__pycache__/
+downloads/*.mp3
+modules/__pycache__
+routers/__pycache__
+*.ipynb
